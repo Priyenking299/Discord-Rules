@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://i.imgur.com/p9kh4Pc.png" width="128px" style="max-width:100%;">
-    <h1>Discord Rules - Team Ujjwal</h1>
+    <img src="https://user-images.githubusercontent.com/91751516/135685643-9bb42ed8-93b5-472d-b624-df0876ec155b.jpeg" width="128px" style="max-width:100%;">
+    <h1>Discord Rules - Team Mr.Graphics</h1>
 </div>
 
 **#1:** Be respectful to everyone.
